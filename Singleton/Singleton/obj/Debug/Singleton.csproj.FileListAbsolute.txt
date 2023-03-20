@@ -1,0 +1,11 @@
+D:\HomeWork\Projects\Singleton\Singleton\bin\Debug\Singleton.exe.config
+D:\HomeWork\Projects\Singleton\Singleton\bin\Debug\Singleton.exe
+D:\HomeWork\Projects\Singleton\Singleton\bin\Debug\Singleton.pdb
+D:\HomeWork\Projects\Singleton\Singleton\obj\Debug\Singleton.csproj.AssemblyReference.cache
+D:\HomeWork\Projects\Singleton\Singleton\obj\Debug\Singleton.csproj.SuggestedBindingRedirects.cache
+D:\HomeWork\Projects\Singleton\Singleton\obj\Debug\Singleton.Form1.resources
+D:\HomeWork\Projects\Singleton\Singleton\obj\Debug\Singleton.Properties.Resources.resources
+D:\HomeWork\Projects\Singleton\Singleton\obj\Debug\Singleton.csproj.GenerateResource.cache
+D:\HomeWork\Projects\Singleton\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+D:\HomeWork\Projects\Singleton\Singleton\obj\Debug\Singleton.exe
+D:\HomeWork\Projects\Singleton\Singleton\obj\Debug\Singleton.pdb
